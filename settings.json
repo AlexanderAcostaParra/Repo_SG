@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/dd75f644-9f63-48f0-86bb-349079d6ca7d/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/SolucionesGeotecnicas",
+    "appService.deploySubpath": "."
+}
